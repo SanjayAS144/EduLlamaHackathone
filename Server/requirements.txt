@@ -1,0 +1,10 @@
+pandas
+openpyxl
+fastapi
+requests
+uvicorn
+python-multipart
+pyhtml2pdf
+reportlab
+pyhtml2pdf
+xhtml2pdf

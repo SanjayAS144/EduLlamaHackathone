@@ -1,0 +1,133 @@
+{
+    "topics": [
+        "Introduction to Integration",
+        "Basic Integration Rules",
+        "Integration by Substitution",
+        "Integration by Parts",
+        "Integration by Partial Fractions",
+        "Trigonometric Integrals",
+        "Improper Integrals"
+    ],
+    "dailyItinerary": {
+        "Day 1": [
+            "Introduction to Integration",
+            "Definition of a Definite Integral"
+        ],
+        "Day 2": [
+            "Basic Integration Rules",
+            "Constant Multiple Rule and Sum Rule"
+        ],
+        "Day 3": [
+            "Basic Integration Rules",
+            "Power Rule and Exponential Rule"
+        ],
+        "Day 4": [
+            "Integration by Substitution",
+            "Introduction to Substitution Method"
+        ],
+        "Day 5": [
+            "Integration by Substitution",
+            "Substitution with Trigonometric Functions"
+        ],
+        "Day 6": [
+            "Integration by Parts",
+            "Introduction to Integration by Parts"
+        ],
+        "Day 7": [
+            "Integration by Parts",
+            "Choosing u and dv"
+        ],
+        "Day 8": [
+            "Integration by Partial Fractions",
+            "Introduction to Partial Fractions"
+        ],
+        "Day 9": [
+            "Integration by Partial Fractions",
+            "Linear Factors and Quadratic Factors"
+        ],
+        "Day 10": [
+            "Trigonometric Integrals",
+            "Introduction to Trigonometric Integrals"
+        ],
+        "Day 11": [
+            "Trigonometric Integrals",
+            "Sine and Cosine Integrals"
+        ],
+        "Day 12": [
+            "Trigonometric Integrals",
+            "Tangent and Cotangent Integrals"
+        ],
+        "Day 13": [
+            "Improper Integrals",
+            "Introduction to Improper Integrals"
+        ],
+        "Day 14": [
+            "Improper Integrals",
+            "Infinite Limits ofclassifier Integral"
+        ],
+        "Day 15": [
+            "Review Day",
+            "Review of Basic Integration Rules"
+        ],
+        "Day 16": [
+            "Review Day",
+            "Review of Integration by Substitution"
+        ],
+        "Day 17": [
+            "Review Day",
+            "Review of Integration by Parts"
+        ],
+        "Day 18": [
+            "Review Day",
+            "Review of Integration by Partial Fractions"
+        ],
+        "Day 19": [
+            "Review Day",
+            "Review of Trigonometric Integrals"
+        ],
+        "Day 20": [
+            "Review Day",
+            "Review of Improper Integrals"
+        ],
+        "Day 21": [
+            "Practice Problems",
+            "Mixed Integration Problems"
+        ],
+        "Day 22": [
+            "Practice Problems",
+            "Integration by Substitution Problems"
+        ],
+        "Day 23": [
+            "Practice Problems",
+            "Integration by Parts Problems"
+        ],
+        "Day 24": [
+            "Practice Problems",
+            "Integration by Partial Fractions Problems"
+        ],
+        "Day 25": [
+            "Practice Problems",
+            "Trigonometric Integral Problems"
+        ],
+        "Day 26": [
+            "Practice Problems",
+            "Improper Integral Problems"
+        ],
+        "Day 27": [
+            "Assessment Day",
+            "Quiz on Basic Integration Rules"
+        ],
+        "Day 28": [
+            "Assessment Day",
+            "Quiz on Integration by Substitution"
+        ],
+        "Day 29": [
+            "Assessment Day",
+            "Quiz on Integration by Parts"
+        ],
+        "Day 30": [
+            "Assessment Day",
+            "Quiz on Mixed Integration Problems"
+        ]
+    }
+}

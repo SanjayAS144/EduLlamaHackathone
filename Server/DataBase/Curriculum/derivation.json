@@ -1,0 +1,130 @@
+{
+    "topics": [
+        "Algebra",
+        "Geometry",
+        "Trigonometry",
+        "Calculus"
+    ],
+    "dailyItinerary": {
+        "Day 1": [
+            "Introduction to Algebra",
+            "Variables and Expressions"
+        ],
+        "Day 2": [
+            "Simplifying Expressions",
+            "Solving Linear Equations"
+        ],
+        "Day 3": [
+            "Graphing Linear Equations",
+            "Applications of Linear Equations"
+        ],
+        "Day 4": [
+            "Introduction to Geometry",
+            "Points, Lines, and Planes"
+        ],
+        "Day 5": [
+            "Angles and Properties",
+            "Properties of Congruent and Similar Figures"
+        ],
+        "Day 6": [
+            "Introduction to Trigonometry",
+            "Angles and Triangles"
+        ],
+        "Day 7": [
+            "Trigonometric Functions",
+            "Solving Triangles"
+        ],
+        "Day 8": [
+            "Graphing Trigonometric Functions",
+            "Applications of Trigonometry"
+        ],
+        "Day 9": [
+            "Introduction to Calculus",
+            "Limits and Continuity"
+        ],
+        "Day 10": [
+            "Derivatives",
+            "Rules of Differentiation"
+        ],
+        "Day 11": [
+            "Derivatives of Trigonometric Functions",
+            "Derivatives of Exponential and Logarithmic Functions"
+        ],
+        "Day 12": [
+            "Applications of Derivatives",
+            "Optimization"
+        ],
+        "Day 13": [
+            "Review of Algebra",
+            "Practice Problems"
+        ],
+        "Day 14": [
+            "Review of Geometry",
+            "Practice Problems"
+        ],
+        "Day 15": [
+            "Review of Trigonometry",
+            "Practice Problems"
+        ],
+        "Day 16": [
+            "Review of Calculus",
+            "Practice Problems"
+        ],
+        "Day 17": [
+            "Derivation of Linear Equations",
+            "Derivation of Quadratic Equations"
+        ],
+        "Day 18": [
+            "Derivation of Trigonometric Identities",
+            "Derivation of Calculus Formulas"
+        ],
+        "Day 19": [
+            "Applications of Derivation",
+            "Physics and Engineering Applications"
+        ],
+        "Day 20": [
+            "Economics and Finance Applications",
+            "Computer Science Applications"
+        ],
+        "Day 21": [
+            "Review of Derivation",
+            "Practice Problems"
+        ],
+        "Day 22": [
+            "Assessment and Review",
+            "Practice Problems"
+        ],
+        "Day 23": [
+            "Assessment and Review",
+            "Practice Problems"
+        ],
+        "Day 24": [
+            "Introduction to Advanced Topics",
+            "Vector Calculus"
+        ],
+        "Day 25": [
+            "Differential Equations",
+            "Linear Algebra"
+        ],
+        "Day 26": [
+            "Applications of Advanced Topics",
+            "Physics and Engineering Applications"
+        ],
+        "Day 27": [
+            "Economics and Finance Applications",
+            "Computer Science Applications"
+        ],
+        "Day 28": [
+            "Review of Advanced Topics",
+            "Practice Problems"
+        ],
+        "Day 29": [
+            "Assessment and Review",
+            "Practice Problems"
+        ],
+        "Day 30": [
+            "Final Assessment and Review",
+            "Practice Problems"
+        ]
+    }
+}

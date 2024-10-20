@@ -1,0 +1,54 @@
+/* DropdownSelector.css */
+
+/* Container for the dropdown selector */
+.selector-container {
+    width: 100%;
+  position: relative;
+  display: inline-block;
+}
+
+/* Style for the selector button */
+.selector-button {
+width: 100%;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 5px;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  font-size: 14px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Style for the dropdown list */
+.dropdown-list {
+  position: absolute;
+  background-color: white;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1);
+  margin-top: 10px;
+  list-style: none;
+  padding: 0;
+  width: 100%;
+  border-radius: 4px;
+  z-index: 1;
+}
+
+/* Style for each dropdown item */
+.dropdown-item {
+    width: 100%;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 14px;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Hover effect for dropdown items */
+.dropdown-item:hover {
+  background-color: #f1f1f1;
+}
+
+/* Remove bottom border for the last item */
+.dropdown-item:last-child {
+  border-bottom: none;
+}
